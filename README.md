@@ -21,6 +21,15 @@ By now, you should all have a GitHub account.
 
 LEARN HTML: go to w3schools.com (click top left HTML for a free tutorial)
 
+Go to https://github.com/St-Bonaventure-University/portfolio-template for your starter template
+
+Copy website with green "code" button
+
+TERMINAL: go to folder where all your repositories (repos) are. 
+TERMINAL: git clone Ctrl-v
+
+Go to a window with your files. Copy all files and folders from your newly created repo into your original repo. Open up index.html and now you see the current version. Happy editing!
+
 
 If you get tired of your template, go to 
 
